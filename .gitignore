@@ -21,3 +21,6 @@ target
 #.idea/
 
 /target
+
+# Binary output
+src/function

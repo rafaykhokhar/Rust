@@ -1,7 +1,5 @@
-
-
 pub fn main() {
-    let str = String::from("harkirat singh");
+    let str = String::from("Rafay Khokhar");
     println!("First name {}", get_first_name(str))
     
 }
